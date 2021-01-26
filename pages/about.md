@@ -16,9 +16,9 @@ title: 关于我
 
 ## 联系我
 
-- QQ&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: 307765464  
-- QQ群&nbsp;&nbsp;&nbsp;: 905474978  
-- Email&nbsp;&nbsp;: muye@muye.ml
+- QQ&nbsp;&nbsp;: 307765464  
+- QQ群&nbsp;: 905474978  
+- Email&nbsp;: muye@muye.ml
 - 博客主页:muye.ml
 
 
