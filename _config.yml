@@ -38,7 +38,7 @@ menu:
   - title: 关于
     url: /pages/about.html
   - title: 木叶工具箱
-    url: /pages/Excel辅助插件-木叶工具箱.html
+    url: /pages/muye_tools.html
 
 # 点击页面文字冒出特效,不需要请设置为false
 extClickEffect: false
