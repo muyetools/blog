@@ -27,7 +27,7 @@ categories: [git,Sourcetree]
 软件继续开始下载，因网络问题，下载可能有点慢，需要点耐心，如果一直失败，可能需要一个梯子，这个自己想办法解决，直到出现“工具安装完成”点击下一步，后面一直默认下一步即可；安装好后，安装界面会自动关闭，你点击桌面图标打开会出现如下图，说明安装成功，这个时候你可以先选中否，先配置好git；
 ![](https://muye-1302115079.cos.ap-guangzhou.myqcloud.com/%E5%9B%BE%E5%BA%8A/markdown/%E9%85%8D%E7%BD%AEgit%2BSourcetree/012.jpg)
 
-### 二、配置git 和 Sourcetree
+### 三、配置git 和 Sourcetree
 1. 鼠标右键点击空白位置，左键点击上图中的“Git Bash Here”就会打开git的命令行界面；
 2. 设置用户名和邮箱；  
 ```
