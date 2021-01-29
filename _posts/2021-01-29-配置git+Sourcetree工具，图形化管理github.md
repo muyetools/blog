@@ -1,9 +1,10 @@
 ---
 layout: mypost
-title: 配置git+Sourcetree
+title: 配置git+Sourcetree，图形化管理github
 categories: [git,Sourcetree]
 ---  
->因本人博客就是搭建在github的，修改博客内容使用的工具就是[git](https://git-scm.com/)和[Sourcetree](https://www.sourcetreeapp.com/)，两款都是免费的工具，用起来很顺手；也把这个搭建的过程记录下，供自己及需要的人进行参考。
+>因本人博客就是搭建在github的，修改博客内容使用的工具就是[git](https://git-scm.com/)和[Sourcetree](https://www.sourcetreeapp.com/)，两款都是免费的工具，用起来很顺手；也把这个搭建的过程记录下，供自己及需要的人进行参考。   
+
 ### 一、注册github
 　　这里建议先安装[github加速](https://microsoftedge.microsoft.com/addons/detail/github%E5%8A%A0%E9%80%9F/ljceflkaahacpphaioldeledefadpmdp?hl=zh-CN)插件，这里是Microsoft Edge浏览器的地址；    
 　　登录[Github](https://github.com/)网站，如果没有注册的先注册，点击[Sign up](https://github.com/join?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home)进行注册，注册只需要填写用户名，邮箱、密码，重复密码，填写后，点击注册即可，非常简单，这里就不多加补充。
